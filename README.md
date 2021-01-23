@@ -1,5 +1,6 @@
 # python-2dLists
 practising 2d lists with python 
+
 2dlistAssign1.py - searches for an number in a 2dlist and checks if list is filled with 0's(empty list)
 
 2dlistAssign2.py - Simulating tetris to see if falling pieces collide. Falling pieces are represented as 1 and empty spaces are represented as a 0. If falling piece collides with another piece in place return true else false.
